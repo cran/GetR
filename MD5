@@ -1,0 +1,11 @@
+0c7aee2e1cfa62aa0c2385c6088e5db5 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+d12a9e0b935d933e79aee49757cca359 *R/checkData.R
+5b804102473b65b1437595358c4a9949 *R/gTree.R
+c24009a2949bb22d4aec454f335dc0fa *R/guttmanErrors.R
+a01527ddf7db9dd6340ea421c1a229c5 *data/Communality.rda
+1f18d121e50e57674f5ea7a134cfa7d9 *man/Communality.Rd
+2e8ec58d156def8c06567b33096c4d5e *man/GetR-package.Rd
+b208ac6ff2fc426bd2db9ab20d070791 *man/checkData.Rd
+0fa72379e69ed30cbf9b8565d7051375 *man/gTree.Rd
+abef25930ab454c7dc953af6d3bda170 *man/guttmanErrors.Rd
